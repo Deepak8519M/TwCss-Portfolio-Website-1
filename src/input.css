@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+.divcentr {
+  transform: translate(-50%, -50%);
+}
+
+.trx {
+  transform: translateX(-50%);
+}
