@@ -81,7 +81,7 @@ This approach ensures the project is maintainable and easily extendable with min
  - Simple, accessible UI perfect for showcasing portfolio projects 
 
  - Ready for deployment or further customization
- - 
+   
 ## Future Improvements
 
  - Add more interactive JavaScript features
